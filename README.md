@@ -1,4 +1,4 @@
-<img src="img/Steenwyk_latch_logo.jpg" alt="logo" width="250"/>
+<img src="img/Steenwyk_latch_logo.jpg" alt="logo" width="75%"/>
 
 <br />
 
