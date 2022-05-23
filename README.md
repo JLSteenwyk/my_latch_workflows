@@ -12,11 +12,15 @@ This repository helps me keep track of the workflows I have contributed to Latch
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Dockerfile snippets](#dockerfile-snippets)
-  - [Installing packages from pypi](#installing-packages-from-pypi)
-- [I/O operations](#io-operations)
-  - [Writing out stdout](#writing-out-stdout)
-- [Contributors](#contributors)
+- [Multiple sequence alignments](#multiple-sequence-alignments)
+  - [Mafft, align multiple sequences](#mafft-align-multiple-sequences)
+  - [ClipKIT, alignment trimming](#clipkit-alignment-trimming)
+  - [BioKIT, alignment summary statistics](#biokit-alignment-summary-statistics)
+- [Phylogenetics](#phylogenetics)
+  - [IQTREE, infer phylogenetic tree](#iqtree-infer-phylogenetic-tree)
+  - [Align, trim, and infer phylogeny for multiple sequences](#align-trim-and-infer-phylogeny-for-multiple-sequences)
+- [Genome assembly](#genome-assembly)
+  - [BioKIT, Genome quality assessment](#biokit-genome-quality-assessment)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
