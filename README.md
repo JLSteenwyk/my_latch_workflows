@@ -3,8 +3,7 @@
 <br />
 
 ### Purpose
-
-This repository helps me keep track of the workflows I have contributed to Latch!
+This repository helps me keep track of the workflows I have contributed to Latch.
 
 <br />
 
