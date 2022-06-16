@@ -48,12 +48,12 @@ This repository helps me keep track of the workflows I have contributed to Latch
 #### IQTREE, infer phylogenetic tree
 - Infer a phylogenetic tree with IQTREE
 - [Add to workspace](https://console.latch.bio/explore/60461/info)
-- Citation: [Minh et al. (2020), Molecular Biology and Evolution](https://academic.oup.com/mbe/article/30/4/772/1073398); [Steenwyk et al. (2020), PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007); [Katoh and Standley (2013), Molecular Biology and Evolution](https://academic.oup.com/mbe/article/30/4/772/1073398)
+- Citation: [Minh et al. (2020), Molecular Biology and Evolution](https://academic.oup.com/mbe/article/30/4/772/1073398)
 
 #### Align, trim, and infer phylogeny for multiple sequences
 - Align, trim and reconstruct the evolutionary history of input sequences using Mafft, ClipKIT, and IQTREE, respectively.
 - [Add to workspace](https://console.latch.bio/explore/60572/info)
-- Citation: [Minh et al. (2020), Molecular Biology and Evolution](https://academic.oup.com/mbe/article/30/4/772/1073398)
+- Citation: [Minh et al. (2020), Molecular Biology and Evolution](https://academic.oup.com/mbe/article/30/4/772/1073398); [Steenwyk et al. (2020), PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007); [Katoh and Standley (2013), Molecular Biology and Evolution](https://academic.oup.com/mbe/article/30/4/772/1073398)
 
 ### Genome assembly
 
