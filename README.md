@@ -42,6 +42,7 @@ This repository helps me keep track of the workflows I have contributed to Latch
 - [Add to workspace](https://console.latch.bio/explore/60101/info)
 - Citation: [Steenwyk et al. (2022), Genetics](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyac079/6583183?redirectedFrom=fulltext)
 
+<br />
 
 ### Phylogenetics
 
@@ -54,6 +55,18 @@ This repository helps me keep track of the workflows I have contributed to Latch
 - Align, trim and reconstruct the evolutionary history of input sequences using Mafft, ClipKIT, and IQTREE, respectively.
 - [Add to workspace](https://console.latch.bio/explore/62302/info)
 - Citation: [Minh et al. (2020), Molecular Biology and Evolution](https://academic.oup.com/mbe/article/30/4/772/1073398); [Steenwyk et al. (2020), PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001007); [Katoh and Standley (2013), Molecular Biology and Evolution](https://academic.oup.com/mbe/article/30/4/772/1073398)
+
+<br />
+
+### Orthology Inference
+
+#### OrthoSNAP
+- Identify subgroups of single-copy orthologous genes nested within larger gene families
+- [Add to workspace](https://console.latch.bio/explore/65606/info)
+- Citation: [Steenwyk et al. (2022), bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.30.466607v1)
+
+
+<br />
 
 ### Genome assembly
 
