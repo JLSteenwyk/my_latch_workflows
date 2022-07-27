@@ -18,6 +18,8 @@ This repository helps me keep track of the workflows I have contributed to Latch
 - [Phylogenetics](#phylogenetics)
   - [IQTREE, infer phylogenetic tree](#iqtree-infer-phylogenetic-tree)
   - [Align, trim, and infer phylogeny for multiple sequences](#align-trim-and-infer-phylogeny-for-multiple-sequences)
+- [Orthology Inference](#orthology-inference)
+  - [OrthoSNAP](#orthosnap)
 - [Genome assembly](#genome-assembly)
   - [BioKIT, Genome quality assessment](#biokit-genome-quality-assessment)
 
